@@ -1,9 +1,3 @@
-getwd()
-list.files()
-setwd("/Users/gdiya/Documents")
-setwd("GN 428/R-Studio/")
-
-
 # =====================
 # GN 428 Final Project
 # Heart Disease Prediction
